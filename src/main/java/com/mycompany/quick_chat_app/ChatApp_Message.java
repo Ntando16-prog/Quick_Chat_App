@@ -107,6 +107,7 @@ public class ChatApp_Message {
        // Requirement 1: User must be logged in
         Login loginSystem = new Login();
         
+        // user must meet all the registration/login requirements
         String loginMessage =loginSystem.handleLogin();
         if (loginMessage !=null && loginMessage.startsWith("Welcome")){
        int choice;

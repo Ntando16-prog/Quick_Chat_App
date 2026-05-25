@@ -16,6 +16,7 @@ public class ChatAppMessageTest {
     // Update the instantiation name to match your actual message class name
     ChatApp_Message messageProcessor = new ChatApp_Message();
 
+    
     @Test
     public void testCheckMessageLengthSuccess() {
         // Test data within the 250 character limit

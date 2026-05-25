@@ -98,6 +98,8 @@ public class Login {
            
         }
     }
+    // used to ensure login is successsful and meets all the requirement
+    
     
     public String handleLogin() {
          //creating a scanner
