@@ -21,6 +21,7 @@ public class LoginTest {
    //Test: Username correctly formatted
    //returns true for username with underscore and <= 5 characters.
    
+   
    @Test
    public void testUsernameCorrectlyFormatted() {
        assertTrue(store.checkUserName("kyl_1"));
