@@ -3,4 +3,5 @@ target/
 *.jar
 nbproject/private/
 build/
-
+git add .gitignore
+git commit -m "Add gitignore for Maven target folder"
