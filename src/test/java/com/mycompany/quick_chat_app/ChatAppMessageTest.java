@@ -1,3 +1,4 @@
+
 package com.mycompany.quick_chat_app;
 
 /*
@@ -5,7 +6,7 @@ package com.mycompany.quick_chat_app;
  * Click nbfs://nbhost/SystemFileSystem/Templates/UnitTests/JUnit5TestClass.java to edit this template
  */
 
-import com.mycompany.quick_chat_app.ChatApp_Message.Message;
+
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.BeforeEach;
@@ -207,5 +208,6 @@ class QuickChatUnitTests {
 }
     }
 }
+
 
 

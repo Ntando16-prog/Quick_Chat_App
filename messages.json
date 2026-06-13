@@ -70,3 +70,35 @@
   "storedStatus": "Stored",
   "senderNum": "Unknown"
 }
+{
+  "storedMessageID": "4068771304",
+  "storedMessageHash": "40:5:DIDCAKE?",
+  "storedRecipientCell": "+27834557896",
+  "storedMessage": "Did you get the cake?",
+  "storedStatus": "Sent",
+  "senderNum": "+27812784748"
+}
+{
+  "storedMessageID": "6771553323",
+  "storedMessageHash": "67:14:WHERETIME.",
+  "storedRecipientCell": "+27838884567",
+  "storedMessage": "Where are you? You are late! I have asked you to be on time.",
+  "storedStatus": "Stored",
+  "senderNum": "Unknown"
+}
+{
+  "storedMessageID": "5638153629",
+  "storedMessageHash": "56:4:ITTIME!",
+  "storedRecipientCell": "0838884567",
+  "storedMessage": "It is dinner time!",
+  "storedStatus": "Sent",
+  "senderNum": "Unknown"
+}
+{
+  "storedMessageID": "7958098906",
+  "storedMessageHash": "79:6:OK,YOU.",
+  "storedRecipientCell": "+27838884567",
+  "storedMessage": "Ok, I am leaving without you.",
+  "storedStatus": "Stored",
+  "senderNum": "Unknown"
+}
